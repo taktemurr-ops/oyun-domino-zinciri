@@ -1,4 +1,4 @@
-# Domino Zinciri · Domino Chain
+# Devrilen Taşlar · Toppling Tiles
 
 Taşları diz, ilk itişle zil çalsın
 
